@@ -5,7 +5,7 @@ Pontificia Universidad Javeriana Cali · Facultad de Ciencias Económicas y Admi
 
 **Autor:** George David Muñoz Rodríguez
 
-- **Aplicación desplegada:** _pega aquí el enlace de Streamlit Community Cloud_
+- **Aplicación desplegada:** https://niixitoo-acp-y-k-means-clothes-app-pk50y7.streamlit.app/
 - **Video de sustentación:** _pega aquí el enlace del video_
 
 ## Contexto y pregunta
@@ -111,8 +111,8 @@ Valores en medianas. Las letras son solo nombres y no indican orden.
 Requiere Python 3.10 o superior.
 
 ```bash
-git clone <URL-de-este-repositorio>
-cd <carpeta-del-repositorio>
+git clone https://github.com/niixitoo/ACP-y-K-means-Clothes.git
+cd ACP-y-K-means-Clothes
 pip install -r requirements.txt
 streamlit run app.py
 ```
