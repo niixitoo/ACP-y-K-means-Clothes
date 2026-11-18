@@ -30,6 +30,7 @@ perfiles sin imponerlos de antemano, y la silueta indica qué tan separados est�
 - **Archivo:** `data/summer-products-with-rating-and-performance_2020-08.csv` (1.573 filas, 43 columnas).
 - **Observación:** cada fila es un producto que aparecía en Wish al buscar la palabra *summer*.
 - **Cobertura:** una sola captura, de agosto de 2020, con precios en euros.
+- **Licencia:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). El archivo se incluye sin modificaciones.
 
 El archivo está incluido en el repositorio. También se puede descargar desde el enlace de Kaggle y guardar en la
 carpeta `data/` con el mismo nombre.
